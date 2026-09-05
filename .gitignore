@@ -1,0 +1,10 @@
+.DS_Store
+*~
+.*~
+.vscode
+.swp
+.log
+
+.bak
+*.bak
+keychain
