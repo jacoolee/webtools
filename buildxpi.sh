@@ -2,5 +2,5 @@
 # set -x
 
 cd webtool-firefox-extension
-zip -r ../webtool-firefox-extension.xpi .
+zip -r ../build/webtool-firefox-extension.xpi .
 cd -

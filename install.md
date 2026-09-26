@@ -1,3 +1,13 @@
+# Install
+
+## add https://addons.firefox.org
+
+https://addons.mozilla.org/en-US/developers/addon/13cde0ec5b3b4d5dbdf5/versions
+
+---
+
+## For development
+
 For development, you can load it as a temporary extension.
 
 1. Put the files in a directory
@@ -54,7 +64,9 @@ and click Reload for the extension.
 
 You don’t need to restart Firefox.
 
-================================================================
+---
+
+## For release
 
 For a normal Firefox release build, an extension loaded with “Load Temporary Add-on…” cannot be made permanent. It is removed when Firefox restarts.
 
